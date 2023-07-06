@@ -18,7 +18,7 @@ import time
 app = Flask(__name__)
 app.config["SECRET_KEY"] = "Qrawler123456"
 CORS(app)
-production=False
+production=True
 
 
 

@@ -13,7 +13,7 @@ colorama==0.4.6
 cryptography==41.0.1
 Cython==0.29.35
 dnspython==1.16.0
-eventlet==0.30.2
+eventlet==0.31.0
 exceptiongroup==1.1.1
 firebase-admin==6.1.0
 Flask==2.3.2

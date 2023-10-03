@@ -70,7 +70,7 @@ tqdm==4.65.0
 trio==0.22.0
 trio-websocket==0.10.3
 uritemplate==4.1.1
-urllib3==1.26.16
+urllib3==1.26.17
 webdriver-manager==3.8.6
 Werkzeug==2.3.6
 wsproto==1.2.0
